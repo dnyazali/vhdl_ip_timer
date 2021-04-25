@@ -1,4 +1,4 @@
-# vhdl_ip_timer
+# vhdl_timer_ip_core
 
 ### About Timer IP:
 TIMER_IP is a stopwatch IP Core for embedded systems written in VHDL.
